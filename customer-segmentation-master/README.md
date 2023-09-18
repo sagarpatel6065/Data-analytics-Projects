@@ -1,4 +1,4 @@
-# customer-segmentation
+# Customer-segmentation
 
 Knowing your customers is very essential in business because once you know your customers you can create schemes and products as per their needs and your profit interest.
 
