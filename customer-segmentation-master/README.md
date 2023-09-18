@@ -2,14 +2,13 @@
 
 Knowing your customers is very essential in business because once you know your customers you can create schemes and products as per their needs and your profit interest.
 
-Here [Customer Segmentation](https://www.kaggle.com/nafemuhtasim/customer-segmentation) dataset by [Nafe Muhtasim](https://www.kaggle.com/nafemuhtasim) to `cluster` customers in different `segments`. This is `unsupervised` learning problem.
+Here [Customer Segmentation](https://www.kaggle.com/nafemuhtasim/customer-segmentation) dataset by [Sagarkumar Patel](https://www.kaggle.com/nafemuhtasim) to `cluster` customers in different `segments`. This is an `unsupervised` learning problem.
 
 ## Table of contents
 
 - [Getting started](#getting-started)
 - [Findings](#findings)
 - [Clusters](#clusters)
-- [License](#license)
 
 ## Getting started
 
@@ -59,6 +58,3 @@ To know more read the [notebook](./notebook.ipynb).
 ![](./docs/imgs/segmentation2.png)
 ![](./docs/imgs/segmentation1.png)
 
-## License
-
-[APACHE LICENSE, VERSION 2.0](./LICENSE)
